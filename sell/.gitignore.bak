@@ -1,5 +1,4 @@
 /target/
-/src/main/resources/templates/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
